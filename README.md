@@ -1,1 +1,3 @@
 # publico
+
+theme:minima
