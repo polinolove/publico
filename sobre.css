@@ -1,0 +1,36 @@
+
+body{
+    background-image: url(img/fundolivro.jpg);
+}
+h3{
+    font-family: typeface;
+    text-align: center;
+    background-color: rgb(255, 207, 197);
+    color:black; 
+    font-size: 20pt;
+}
+p.um { 
+    font-size: 25px;
+    background-color: rgb(252, 187, 175) ;
+}
+p.dois { 
+    font-size: 25px;
+    background-color: rgb(252, 187, 175) ;
+}
+p.tres { 
+    font-size: 25px;
+    background-color: rgb(252, 187, 175) ;
+   
+}
+.volt{
+    font-size: 26px;
+}
+a:hover{
+    font-weight: arial;
+    opacity: 0.8;
+    transition: 0.4s;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
